@@ -1,0 +1,43 @@
+main{
+	width:800px;
+	height: 500px;
+	text-align: center;
+	display: block;
+	margin: auto;
+	padding: 30px;
+}
+
+div {
+	border: solid 1px;
+	font-size: 0;
+}
+
+.b {
+	height: 200px;
+	width:50%;
+	font-size: 0;
+	display: inline-block;
+}
+
+.c {
+	width: 33.33%;
+	height: 300px;
+	font-size: 0;
+	display: inline-block;
+} 
+
+.first {
+	background-color: green;
+}
+.second{
+	background-color: blue;
+}
+.third{
+	background-color: grey;
+}
+.fourth{
+	background-color: black;
+}
+.fifth{
+	background-color: orange;
+}
